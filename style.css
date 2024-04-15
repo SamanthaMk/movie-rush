@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Segoe UI", sans-serif;
+  
 }
 
 body {
@@ -10,6 +11,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
+   background-color: #02161c;
 }
 
 #header {
@@ -206,7 +208,7 @@ section::before {
 .sec .row2 .col h2{
     color: white;
     margin-bottom: 18px;
-    font-size: 20px;
+    font-size: 32px;
 }
 .sec .row2 .col2 p{
  text-decoration: underline;   
@@ -224,7 +226,8 @@ section::before {
 }
 .sec .row3 h2{
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
+    margin-top: 20px;
 }
 .row3 .col{
     width: 640px;
